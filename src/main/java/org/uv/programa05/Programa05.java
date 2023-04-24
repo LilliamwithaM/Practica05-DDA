@@ -4,7 +4,7 @@ package org.uv.programa05;
 
 /**
  *
- * @author minio
+ * @author Patidifusa
  */
 public class Programa05 {
 
